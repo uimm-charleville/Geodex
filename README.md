@@ -12,9 +12,9 @@ An application that uses database from CRNS to vulgarize data from archeologists
 
 Mobile & Web Developper Team:
 
-- [Tom Dantier](https://github.com/ "Tom Dantier")
-- [Stanislas Gerardin](https://github.com/ "Stanislas Gerardin")
-- [Bryan Ducret](https://github.com/ "Bryan Ducret")
+- [Tom Dantier](https://github.com/Tomfrom08 "Tom Dantier")
+- [Stanislas Gerardin](https://github.com/Irvine99 "Stanislas Gerardin")
+- [Bryan Ducret](https://github.com/Sirlauvel "Bryan Ducret")
 
 Application Designer & Developer Team:
 
